@@ -31,5 +31,9 @@ https://youtu.be/tIsQJwXvSxs
 исходники под роликом.
 #### плейлист
 https://www.youtube.com/playlist?list=PLHqphEbvykYsgt-Dys90m4LnT5WGzmDI0
+##### библиотеки в прошивке
+- GFX_Library_for_Arduino https://github.com/moononournation/Arduino_GFX
+- ESPRotary https://github.com/LennartHennigs/ESPRotary
+- Button2  https://github.com/LennartHennigs/Button2
 ___
 ![git](https://github.com/user-attachments/assets/be710210-78bf-474b-a4e7-0ffcc4c200fd)
